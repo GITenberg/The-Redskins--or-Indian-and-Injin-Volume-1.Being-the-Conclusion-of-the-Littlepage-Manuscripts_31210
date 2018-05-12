@@ -1,0 +1,34 @@
+_repo: The-Redskins--or-Indian-and-Injin-Volume-1.Being-the-Conclusion-of-the-Littlepage-Manuscripts_31210
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Morgan, Jane
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: ''
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'New York (State) -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+title: 'The Redskins; or, Indian and Injin, Volume 1.
+
+  Being the Conclusion of the Littlepage Manuscripts'
+url: http://www.gutenberg.org/ebooks/31210
